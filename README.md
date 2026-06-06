@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # jordan_tourism_app
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# jordan_tourism_app
+>>>>>>> ba3b073e3c552c97655f83d4b7dfff873ccff61d
